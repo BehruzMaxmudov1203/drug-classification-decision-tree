@@ -90,4 +90,3 @@ Kelajakdagi bemorlarga dori tanlash jarayonini:
 * avtomatlashtirish,
 * tezlashtirish,
 * va aniqroq qilish.
-.
